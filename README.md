@@ -23,8 +23,7 @@
 > app to manage server-side of application running on both `Ruby-on-Rails` and `React`.
 > The app display a ramdom message from the server using `React` component
 
-- `Hello React Frontend` PR Link: [Frontend App PR](https://github.com/PraisesPJMT/Hello-React-Frontend/pull/3)
-- `Hello React Frontend` APP Link: [Frontend App Link](https://github.com/PraisesPJMT/Hello-React-Frontend)
+- `Hello React Frontend` APP Link: [Frontend App Link](https://github.com/username-forGithub/react_to_netlify)
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -107,7 +106,7 @@
 Clone this repository to your desired folder:
 
 ```sh
-  git clone git@github.com:PraisesPJMT/React-on-Rails.git
+  git clone https://github.com/username-forGithub/rails_to_render.git
   cd React-on-Rails
 ```
 
@@ -130,7 +129,7 @@ To run the project, execute the following command:
   rails server
 ```
 
-- After running `rails server`, use the app on [http://localhost:3000/](http://localhost:3000/) in the browser!
+- After running `rails server`, use the app on [http://localhost:4000/](http://localhost:4000/) in the browser!
 - For more information please visit [Ruby-on-Rails](https://rubyonrails.org/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

@@ -158,7 +158,7 @@ To run the project, execute the following command:
 - [ ] **More API endpoints**
 - [ ] **API request authentication**
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align = "right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🤝 Contributing <a name="contributing"></a>
 

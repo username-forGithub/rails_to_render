@@ -92,7 +92,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://react-front-api.netlify.app/) 
+- [Click Me](https://react-front-api.netlify.app/) 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

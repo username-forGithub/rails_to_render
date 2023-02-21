@@ -107,7 +107,7 @@ Clone this repository to your desired folder:
 
 ```sh
   git clone https://github.com/username-forGithub/rails_to_render.git
-  cd React-on-Rails
+  cd rails_to_render
 ```
 
 ### Install
